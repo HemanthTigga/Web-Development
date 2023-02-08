@@ -1,3 +1,26 @@
-body{
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.top-container {
+    background-color: #93BFCF;
+}
+.middle-container {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.bottom-container {
+    height: 200px;
+    width: 200px;
     background-color: blue;
+}
+
+.pro{
+    text-decoration: underline;
 }
